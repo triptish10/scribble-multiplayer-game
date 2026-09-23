@@ -1,0 +1,122 @@
+[
+  {
+    "word": "apple",
+    "category": "food"
+  },
+  {
+    "word": "banana",
+    "category": "food"
+  },
+  {
+    "word": "pizza",
+    "category": "food"
+  },
+  {
+    "word": "burger",
+    "category": "food"
+  },
+  {
+    "word": "ice cream",
+    "category": "food"
+  },
+  {
+    "word": "elephant",
+    "category": "animals"
+  },
+  {
+    "word": "cat",
+    "category": "animals"
+  },
+  {
+    "word": "dog",
+    "category": "animals"
+  },
+  {
+    "word": "lion",
+    "category": "animals"
+  },
+  {
+    "word": "monkey",
+    "category": "animals"
+  },
+  {
+    "word": "car",
+    "category": "objects"
+  },
+  {
+    "word": "phone",
+    "category": "objects"
+  },
+  {
+    "word": "laptop",
+    "category": "objects"
+  },
+  {
+    "word": "chair",
+    "category": "objects"
+  },
+  {
+    "word": "umbrella",
+    "category": "objects"
+  },
+  {
+    "word": "house",
+    "category": "places"
+  },
+  {
+    "word": "school",
+    "category": "places"
+  },
+  {
+    "word": "hospital",
+    "category": "places"
+  },
+  {
+    "word": "beach",
+    "category": "places"
+  },
+  {
+    "word": "mountain",
+    "category": "places"
+  },
+  {
+    "word": "running",
+    "category": "actions"
+  },
+  {
+    "word": "dancing",
+    "category": "actions"
+  },
+  {
+    "word": "sleeping",
+    "category": "actions"
+  },
+  {
+    "word": "swimming",
+    "category": "actions"
+  },
+  {
+    "word": "jumping",
+    "category": "actions"
+  },
+  {
+    "word": "computer",
+    "category": "technology"
+  },
+  {
+    "word": "robot",
+    "category": "technology"
+  },
+  {
+    "word": "camera",
+    "category": "technology"
+  },
+  {
+    "word": "keyboard",
+    "category": "technology"
+  },
+  {
+    "word": "headphones",
+    "category": "technology"
+  }
+]
