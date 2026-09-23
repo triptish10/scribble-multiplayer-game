@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const socket = io("http://localhost:3000", {
+const socket = io("https://scribble-server-gfv5.onrender.com", {
   autoConnect: true,
 });
 
